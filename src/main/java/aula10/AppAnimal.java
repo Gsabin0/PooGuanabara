@@ -16,11 +16,12 @@ public class AppAnimal {
       m.setMembros(4);
       m.setPeso(90.7f);
       m.detalhes(); */
-     //mesmo metodo mas age de forma diferende dependo da classe q foi usado POLIMOFISMO. Brinca um pouco com os resultados
+     //mesmo metodo mas age de forma diferende em classes diferentes q foi usado POLIMORFISMO sobreposicção. Brinca um pouco com os resultados
       m.alimentar();
       m.locomover();
       m.som();
       k.som();
+      //mesmo metodos agem de formas diferentes dentro da mesma classe POLIMORFISMO de sobrecarga
       l.reagit("comida");
       l.reagit(true);
       l.reagit(5,23.5f);

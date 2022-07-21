@@ -20,6 +20,7 @@ public abstract class Pessoa {
         this.setSexo(sexo);
         this.setEsperiencia(0);
     }
+    //teste
     
     //metodos especiais
 

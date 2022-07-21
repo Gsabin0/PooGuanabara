@@ -11,7 +11,7 @@ public class Gafanhoto extends Pessoa{
     }
     //metodos
     public void viumaisum(){
-        this.setTotassistido(this.getTotassistido()+1);
+        
     }
     @Override
     public void detalhes(){
